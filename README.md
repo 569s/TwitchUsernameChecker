@@ -21,7 +21,7 @@ This Python script helps you check the availability of Twitch usernames. It gene
 
   1. Run the script:
  ```bash
-  python twitch_username_checker.py
+  python main.py
 ```
  Input the required details when prompted:
 
