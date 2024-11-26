@@ -11,7 +11,7 @@ This Python script helps you check the availability of Twitch usernames. It gene
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TwitchUserCheck.git
+   git clone https://github.com/569s/TwitchUsernameChecker.git
    cd TwitchUserCheck
 2. Install the required dependencies:
    ```bash
