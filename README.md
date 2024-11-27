@@ -25,7 +25,7 @@ This Python script helps you check the availability of Twitch usernames. It gene
 ```
  Input the required details when prompted:
 
- ![Resmin Açıklaması](https://raw.githubusercontent.com/569s/TwitchUsernameChecker/refs/heads/main/CaTwitch.png)
+ ![example](https://raw.githubusercontent.com/569s/TwitchUsernameChecker/refs/heads/main/CaTwitch.png)
 
 
  - Choose the type of username (letters, numbers, or mixed).
@@ -33,3 +33,4 @@ This Python script helps you check the availability of Twitch usernames. It gene
  - Set the username length.
 
  Available usernames will be printed in green and saved in available.txt.
+![available](https://raw.githubusercontent.com/569s/TwitchUsernameChecker/refs/heads/main/available.png)
